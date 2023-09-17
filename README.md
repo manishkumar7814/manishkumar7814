@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **manishkumarclass@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/16vQd9nnQN5GkYZ6NvozvO6pNQgeY5rXj/view?usp=drivesdk)]
-- (https://drive.google.com/file/d/1bRrDAVE_UgZWj8FRel-9dm4saSUZQ4P3/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1bRrDAVE_UgZWj8FRel-9dm4saSUZQ4P3/view?usp=sharing)
 - ⚡ Fun fact **I am passionate**
 
 <h3 align="left">Connect with me:</h3>
